@@ -6,7 +6,7 @@ IT FDN 130 A Wi 22: Foundations of Databases & SQL Programming
 
 Assignment 07: Functions 
 
-GitHub Repository Link [EXTERNAL WEBSITE] 
+https://github.com/annabmcg/DBFoundations-Module07 [EXTERNAL WEBSITE]
 
 
 # Saving Time and Energy with SQL Functions
